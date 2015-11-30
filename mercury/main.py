@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*-coding:utf-8-*-
 
-from analysis import AnalyzeErlang
+from AnalyzeErlang import AnalyzeErlang
 # from symbol import except_clause
 
 if __name__ == '__main__':
